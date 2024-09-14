@@ -1,0 +1,20 @@
+{
+  "books": [
+    {
+      "title": "hello from server",
+      "id": 1
+    },
+    {
+      "title": "persistence prevails",
+      "id": 2
+    },
+    {
+      "title": "crud my app bois",
+      "id": 4
+    },
+    {
+      "title": "wow",
+      "id": 5
+    }
+  ]
+}
