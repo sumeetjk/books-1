@@ -1,7 +1,7 @@
 {
   "books": [
     {
-      "title": "hello from server heloo",
+      "title": "hello from server",
       "id": 1
     },
     {
@@ -15,10 +15,6 @@
     {
       "title": "wow",
       "id": 5
-    },
-    {
-      "title": "what",
-      "id": 6
     }
   ]
 }
